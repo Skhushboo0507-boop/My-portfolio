@@ -20,5 +20,5 @@ This is my personal portfolio showcasing my skills, projects, and creative UI/UX
 
 
 ## 👨‍💻 Author
-**Subhash Vishwakarma**  
-GitHub: [subhash-vishwakarma0507](https://github.com/subhash-vishwakarma0507)
+**KHUSHBOO SHARMA**  
+GitHub: [skhushboo0507-boop](https://github.com/skhushboo0507-boop)
