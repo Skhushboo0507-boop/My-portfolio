@@ -20,5 +20,9 @@ This is my personal portfolio showcasing my skills, projects, and creative UI/UX
 
 
 ## 👨‍💻 Author
+
 **Khushboo sharma**  
 GitHub: [Khushboo sharma](https://github.com/skhushboo0507-boop)
+
+**KHUSHBOO SHARMA**  
+GitHub: [skhushboo0507-boop](https://github.com/skhushboo0507-boop)
